@@ -1,0 +1,7 @@
+.ordenDiv{
+    display: flex;
+    left: 20px;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content:space-evenly;
+}
